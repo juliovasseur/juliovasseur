@@ -52,6 +52,7 @@ IN PROGRESS
 ### 📫 Get in touch
 
 * GitHub: **@juliovasseur**
+* LinkedIn: **Jules Vasseur (https://www.linkedin.com/in/jules-vasseur-9b78ba283/)**
 * Email: **[julesvasseurpro@proton.me](mailto:julesvasseurpro@proton.me)**
 
 ---
