@@ -1,44 +1,61 @@
-# 👋 Hello, I'm Julio Vasseur!
+Hey there, I'm **Jules Vasseur** 👋
 
-Welcome to my GitHub profile! 🚀
+📍 Paris, France • 🎓 42 Paris student (Data & AI — RNCP 7 - Master's level) • 🎯 Quant‑in‑training
 
----
-
-## 🧑‍💻 About Me
-
-- 🎓 Student at 42 Paris
-- 💻 Passionate about Python, Data Science, and Web Development
-- 🛠️ I love building tools, automating tasks, and solving real-world problems
-- 🌍 Always learning and exploring new technologies
+I'm passionate about **quantitative finance**, **machine learning**, and **systems performance**. I build educational & applied projects around **alpha research**, **market microstructure**, and **systematic trading**. I like breaking things down to first principles — from floating‑point math to **order books** to **execution**.
 
 ---
 
-## 📂 Featured Projects
+### 🔧 What I'm about
 
-- [Piscine42_Python](https://github.com/juliovasseur/Piscine42_Python): All my Python exercises and projects from the 42 Piscine
-- [Quant_training](https://github.com/juliovasseur/Quant_training): Quantitative finance and optimization scripts
-- [myapp](https://github.com/juliovasseur/myapp): Next.js web application
-
----
-
-## 📫 How to reach me
-
-- Email: jvasseur@student.42.fr
-- LinkedIn: [Julio Vasseur](https://www.linkedin.com/in/julio-vasseur/)
-- Twitter: [@julio_vasseur](https://twitter.com/julio_vasseur)
+* Studying software, algorithms, data and machine learning at **42 Paris** (Python, C/C++, Unix, algorithms, networks, systems).
+* Research in **Python**; performance‑critical parts in **C/C++**.
+* I like shipping end‑to‑end: **data ingestion → research notebooks → backtests → APIs → dashboards → CI/CD**.
 
 ---
 
-## ⚡ Fun Facts
+### 🚩 Featured Projects
 
-- I love music, travel, and discovering new cultures
-- I enjoy hackathons and coding challenges
-- I believe in open source and knowledge sharing
+IN PROGRESS 
 
----
-
-![Julio's GitHub stats](https://github-readme-stats.vercel.app/api?username=juliovasseur&show_icons=true&theme=radical)
+> Links incoming as repos go public. Ping me if you want early access.
 
 ---
 
-> "Code is like humor. When you have to explain it, it’s bad." – Cory House
+### 🧭 Learning Path & Objectives
+
+* **Math**: probability & statistics, linear algebra; intro **stochastic calculus** (Itô intuition), optimization.
+* **Time series**: stationarity & cointegration, ARIMA/GARCH, regime detection.
+* **ML for markets**: robust CV, feature pipelines, linear models & trees; careful about leakage/overfitting; curiosity for RL.
+* **Systems**: modern **C++17/20**, RAII/templates; Python performance (Numba/Cython); Linux perf tooling.
+* **Infra**: clean data pipelines, **Docker/Kubernetes**, GitHub Actions.
+* **Interview Prep**: probability & brainteasers, estimators, data structures/algos, market mechanics.
+
+---
+
+### 🎯 Next
+
+* **2025–2027**: top‑tier **apprenticeship** in Global Markets / Quant Research / Data Science.
+* **Summer 2026**: **Quant / Data Science** internship (London or NYC).
+* **After graduation**: target **VIE in New York**.
+
+---
+
+### 🧰 Stack (compact)
+
+**Python, C/C++, SQL** · NumPy, Pandas, scikit‑learn, (PyTorch) · Docker, Kubernetes · Linux, Git · (FastAPI, Postgres)
+
+**React, Typescript** · Nextjs, Vite, Nestjs
+
+---
+
+### 📫 Get in touch
+
+* GitHub: **@juliovasseur**
+* Email: **[julesvasseurpro@proton.me](mailto:julesvasseurpro@proton.me)**
+
+---
+
+### 🚨 Disclaimer
+
+All code & notebooks are for **research/education** only. **Not investment advice**; markets are risky — do your own research.
