@@ -1,22 +1,75 @@
-# Jules Vasseur
+<!--
+🧩 PROFIL README — MAQUETTE ESTHÉTIQUE
+Astuce: remplace `YOUR_USERNAME`, liens, images, et textes entre crochets.
+-->
 
-**Data & AI @ 42 Paris** · aspiring **Quant / Data Scientist** · 
+<!-- ====== HERO ====== -->
+<p align="center">
+  <img src="https://images.unsplash.com/photo-1518779578993-ec3579fee39f?w=1600&h=300&fit=crop" alt="Banner" width="100%" />
+</p>
 
-## ⚡ Tech Stack
+<h1 align="center">Salut, moi c'est <em>[Ton Prénom]</em> 👋</h1>
+<p align="center">
+  <b>[Ton tagline]</b> — <i>[tes mots-clés: Data • IA • Quant • 42 Paris]</i> 🚀
+</p>
 
-**Languages** — Python · C++ · C · SQL  
-**Data & AI** — Data Modeling · Machine Learning · Data Analysis  
-**DevOps & Tools** — Docker · Kubernetes · CI/CD · Git · GitHub · GitLab  
-**Web** — React · REST APIs
+<p align="center">
+  <!-- Badges à personnaliser -->
+  <a href="[ton_site]"><img src="https://img.shields.io/badge/Website-%F0%9F%8C%90-000?style=for-the-badge" /></a>
+  <a href="mailto:[ton_email]"><img src="https://img.shields.io/badge/Email-%F0%9F%93%A7-444?style=for-the-badge" /></a>
+  <a href="https://www.linkedin.com/in/[ton_linkedin]/"><img src="https://img.shields.io/badge/LinkedIn-%F0%9F%92%AA-0A66C2?style=for-the-badge" /></a>
+  <a href="https://x.com/[ton_x]"><img src="https://img.shields.io/badge/X-%F0%9F%8C%9D-111?style=for-the-badge" /></a>
+  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&label=visites" alt="visites" />
+</p>
+
+<!-- ====== NAV RAPIDE ====== -->
+<p align="center">
+  <a href="#-à-propos">À propos</a> •
+  <a href="#-stack--outils">Stack & Outils</a> •
+  <a href="#-projets-marquants">Projets</a> •
+  <a href="#-stats--activités">Stats</a> •
+  <a href="#-contact--liens">Contact</a>
+</p>
 
 ---
 
-## 🌍 Contacts
+<!-- ====== À PROPOS ====== -->
+## 🧑‍🚀 À propos
 
-- LinkedIn : https://www.linkedin.com/in/juliovasseur  
-- GitHub : https://github.com/juliovasseur  
-- Email : julesvasseurpro@proton.me
+- 🎓 [Ton statut: *Étudiant @ 42 Paris / Alternant / etc.*]  
+- 🧠 Focus actuel: **[sujet principal]**  
+- 🧩 Intérêts: **[MLOps, modèles temps réel, trading, etc.]**  
+- 🌱 J’apprends: **[compétence #1]**, **[compétence #2]**  
+- 💡 J’aime construire: **[ex: pipelines ML low-latency, backtesters, lib open-source]**  
+- 🎯 Objectif 2025: **[ton big goal]**  
+
+<details>
+  <summary>✨ Fun facts</summary>
+  <ul>
+    <li>💪 [sport / hobby] • ☕ [rituel productivité]</li>
+    <li>🎧 [playlist de dev préférée]</li>
+    <li>🐈 [autre détail sympa]</li>
+  </ul>
+</details>
 
 ---
 
-*Always building • Always learning • Toward quant finance*
+<!-- ====== STACK ====== -->
+## 🧰 Stack & Outils
+
+<!-- Remplace/complète les badges ci-dessous ou garde uniquement les émojis si tu préfères -->
+**Langages**  
+🟦 Python · 🟨 JavaScript/TypeScript · 🟥 C/C++ · 🟪 [Autre]  
+
+**Data/ML**  
+🧪 NumPy · 📊 Pandas · 🤖 scikit-learn · 🔥 PyTorch · 🧠 [Transformers] · 📈 [Backtesting lib]  
+
+**Dev**  
+🐳 Docker · ☁️ [Cloud] · 🐍 venv/poetry · 🔧 FastAPI · 🧪 PyTest · 🔁 CI/CD (GitHub Actions)
+
+<!-- Option shields (à éditer) -->
+<!--
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=fff)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=fff)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColo)
