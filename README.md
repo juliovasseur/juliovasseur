@@ -16,7 +16,7 @@ I'm passionate about **quantitative finance**, **machine learning**, and **syste
 
 ### 🚩 Featured Projects
 
-IN PROGRESS 
+[**Inception of Things**](https://github.com/juliovasseur/Inception_of_things) – Déploiement d’une architecture complète avec Docker et Kubernetes pour automatiser et orchestrer des services.
 
 > Links incoming as repos go public. Ping me if you want early access.
 
