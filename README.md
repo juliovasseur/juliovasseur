@@ -16,7 +16,14 @@ I'm passionate about **quantitative finance**, **machine learning**, and **syste
 
 ### 🚩 Featured Projects
 
-[**Inception of Things**](https://github.com/juliovasseur/Inception_of_things) – Déploiement d’une architecture complète avec Docker et Kubernetes pour automatiser et orchestrer des services.
+[**Inception of Things**](https://github.com/juliovasseur/Inception_of_things) — Parcours complet d’orchestration de conteneurs : on y déploie des clusters Kubernetes légers avec **K3s/K3d**, on automatise les VM avec **Vagrant**, puis on passe en **GitOps** avec **Argo CD**. Le projet est structuré en 3 parties :  
+- **Part 1 – K3s & Vagrant** : provisioning d’une VM (Ubuntu 24.04 sous VirtualBox), installation/initialisation du cluster K3s, prise en main de `kubectl` et des objets de base.  
+- **Part 2 – K3s & apps** : déploiement de plusieurs applications simples pour pratiquer Services/Ingress, gestion des manifests et orchestration.  
+- **Part 3 – K3d & Argo CD** : cluster local K3d dans Docker, pipeline GitOps (déploiements déclaratifs, sync & health checks).  
+- **Bonus – Intégration GitLab** : amorce CI/CD (build/test/push) pour relier le registre et les déploiements Kubernetes.  
+
+**Stack :** Kubernetes · K3s · K3d · Vagrant · Argo CD · GitLab · Docker · `kubectl`  
+**Objectifs :** comprendre les primitives K8s, automatiser l’Infra as Code, fiabiliser les déploiements via GitOps/CI.
 
 > Links incoming as repos go public. Ping me if you want early access.
 
