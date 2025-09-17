@@ -15,17 +15,17 @@ I'm passionate about **quantitative finance**, **machine learning**, and **syste
 ---
 
 ### 🚩 Featured Projects
+Here’s a polished English version for your README:
 
-[**Inception of Things**](https://github.com/juliovasseur/Inception_of_things) — Parcours complet d’orchestration de conteneurs : on y déploie des clusters Kubernetes légers avec **K3s/K3d**, on automatise les VM avec **Vagrant**, puis on passe en **GitOps** avec **Argo CD**. Le projet est structuré en 3 parties :  
-- **Part 1 – K3s & Vagrant** : provisioning d’une VM (Ubuntu 24.04 sous VirtualBox), installation/initialisation du cluster K3s, prise en main de `kubectl` et des objets de base.  
-- **Part 2 – K3s & apps** : déploiement de plusieurs applications simples pour pratiquer Services/Ingress, gestion des manifests et orchestration.  
-- **Part 3 – K3d & Argo CD** : cluster local K3d dans Docker, pipeline GitOps (déploiements déclaratifs, sync & health checks).  
-- **Bonus – Intégration GitLab** : amorce CI/CD (build/test/push) pour relier le registre et les déploiements Kubernetes.  
+[**Inception of Things**](https://github.com/juliovasseur/Inception_of_things) — Full container orchestration journey: deploying lightweight Kubernetes clusters with **K3s/K3d**, automating VMs with **Vagrant**, and moving to **GitOps** with **Argo CD**. The project is structured into 3 main parts:
 
-**Stack :** Kubernetes · K3s · K3d · Vagrant · Argo CD · GitLab · Docker · `kubectl`  
-**Objectifs :** comprendre les primitives K8s, automatiser l’Infra as Code, fiabiliser les déploiements via GitOps/CI.
+* **Part 1 – K3s & Vagrant**: VM provisioning (Ubuntu 24.04 on VirtualBox), K3s cluster setup/initialization, basic `kubectl` commands, and core Kubernetes objects.
+* **Part 2 – K3s & apps**: deploying multiple simple applications to practice Services/Ingress, manifest management, and orchestration basics.
+* **Part 3 – K3d & Argo CD**: local K3d cluster in Docker, GitOps pipeline (declarative deployments, sync & health checks).
+* **Bonus – GitLab Integration**: initial CI/CD pipeline (build/test/push) linking the registry with Kubernetes deployments.
 
-> Links incoming as repos go public. Ping me if you want early access.
+**Stack:** Kubernetes · K3s · K3d · Vagrant · Argo CD · GitLab · Docker · `kubectl`
+**Goals:** understand K8s primitives, automate Infra as Code, and improve deployment reliability with GitOps/CI.
 
 ---
 
@@ -42,8 +42,8 @@ I'm passionate about **quantitative finance**, **machine learning**, and **syste
 
 ### 🎯 Next
 
-* **2025–2027**: top‑tier **apprenticeship** in Global Markets / Quant Research / Data Science.
-* **Summer 2026**: **Quant / Data Science** internship (London or NYC).
+* **2025–2027**: **apprenticeship** in Global Markets / Quant Research / Data Science.
+* **Summer 2026**: **Quant / Data Science** internship (Paris, London or NYC).
 * **After graduation**: target **VIE in New York**.
 
 ---
