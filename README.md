@@ -15,7 +15,6 @@ I'm passionate about **quantitative finance**, **machine learning**, and **syste
 ---
 
 ### 🚩 Featured Projects
-Here’s a polished English version for your README:
 
 [**Inception of Things**](https://github.com/juliovasseur/Inception_of_things) — Full container orchestration journey: deploying lightweight Kubernetes clusters with **K3s/K3d**, automating VMs with **Vagrant**, and moving to **GitOps** with **Argo CD**. The project is structured into 3 main parts:
 
